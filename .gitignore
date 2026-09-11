@@ -58,5 +58,7 @@ dkms.conf
 *.dwo
 
 # IDE folders
-.vscode/
-!.vscode/tasks.json
+
+# OS
+.DS_Store
+Thumbs.db
