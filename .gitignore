@@ -58,6 +58,7 @@ dkms.conf
 *.dwo
 
 # IDE folders
+.vscode/
 
 # OS
 .DS_Store
