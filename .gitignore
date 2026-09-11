@@ -42,6 +42,9 @@
 *.idb
 *.pdb
 
+# Compilation
+mlfq_exe
+
 # Kernel Module Compile Results
 *.mod*
 *.cmd
