@@ -1,0 +1,5 @@
+PID ; Arrival ; Burst ; Start ; Finish ; Response ; Turnaround ; Waiting
+P1 ; 0 ; 1 ; 1 ; 2 ; 1 ; 2 ; 1
+P2 ; 11 ; 5 ; 12 ; 33 ; 1 ; 22 ; 17
+P4 ; 3 ; 12 ; 4 ; 40 ; 1 ; 37 ; 25
+P3 ; 18 ; 8 ; 21 ; 53 ; 3 ; 35 ; 27
